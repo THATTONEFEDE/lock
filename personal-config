@@ -1,5 +1,5 @@
 _G.TargetAim = {
-    ["Key"] = "e",
+    ["Key"] = "t",
     ["Mode"] = "Toggle", -- "Toggle" or "Hold"
     ["Prediction"] = 0.12831, -- Lower if Lower Ping, Higher if Higher Ping
     ["Auto-Prediction"] = false,
